@@ -26,7 +26,9 @@ Hacker New API (https://github.com/anjaney-dwivedi/hacker-news-api)
 NOTE:- Hacker New API (https://github.com/anjaney-dwivedi/hacker-news-api) should be running before using angular app.
 
 # Running Angular App
-Open terminal and go to project repository and type `ng serve` for running angular app. Open the browser navigate to `http://localhost:4200/`.
+  - Open terminal and go to project repository and install node packages using `npm install`
+    
+  - Now run the commond `ng serve` for running angular app. Open the browser navigate to `http://localhost:4200/`.
 
 # Running unit tests
 Open terminal and go to project repository and type `ng test` to execute the unit tests via [Karma]
