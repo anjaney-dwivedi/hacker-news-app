@@ -2,7 +2,7 @@
 This repository contains hacker-news-ui which is basically a Web UI App.
 This is an Angular v14 project to display newest story list in UI
 
-Features:- 
+# Features:- 
 1)- New Story Listing with Title & Url column
 
 2)- Searching
